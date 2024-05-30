@@ -11,7 +11,7 @@ const About = () => {
       <div className="bg-black bg-opacity-50 p-8 rounded-md max-w-2xl text-center text-white ">
         <h3 className="text-4xl text-black font-bold mb-4">About</h3>
         <p className="text-lg">
-         Our Vision is Clean Spaces,Happy Faces
+        Elevate Your Business with Our Cutting-Edge IT Solutions
         </p>
       </div>
     </div>
