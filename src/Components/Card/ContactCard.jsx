@@ -79,8 +79,7 @@ const ContactCard = () => {
             Orhaan Information Technology.
             </p>
             <p className="mt-2 text-gray-500 dark:text-gray-400 font-medium">
-            Business Venue Building, 101,
-Oud Metha
+       
 {/* Phone: 04 254 5858
 WhatsApp: +97155 208 1023
 Email: info@techmate.me */}
