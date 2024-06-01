@@ -1,5 +1,6 @@
 import React from 'react'
 import ContactCard from '../Components/Card/ContactCard'
+import WhatsappButton from '../Components/WhatsappButton'
 
 const Contact = () => {
   return (
@@ -16,6 +17,7 @@ const Contact = () => {
       </div>
     </div>
     <ContactCard />
+    <WhatsappButton />
     </>
   )
 }

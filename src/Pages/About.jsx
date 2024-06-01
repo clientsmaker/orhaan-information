@@ -1,7 +1,9 @@
 import React from 'react'
+import WhatsappButton from '../Components/WhatsappButton'
 
 const About = () => {
   return (
+    <>
     <div className="relative">
     
     <div
@@ -36,6 +38,8 @@ stakeholders while contributing positively to society and the environment
       </p>
 </div>
 </div>
+<WhatsappButton />
+</>
   )
 }
 

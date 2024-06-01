@@ -9,7 +9,7 @@ const contactDetails = [
       "Phone:   +971 4 329 6860",
      
       "Email: info@orhaan.com",
-      "Address: Dubai, UAE  "
+      "Address:315, Al Masood Tower Dubai, UAE  "
    
       
     ]

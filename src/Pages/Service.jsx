@@ -1,5 +1,6 @@
 import React from 'react'
 import ServiceCard from '../Components/Card/ServiceCard'
+import WhatsappButton from '../Components/WhatsappButton'
 const Service = () => {
   return (
     <>
@@ -93,6 +94,7 @@ objectives.
   </div>
   </div>
   <ServiceCard />
+  <WhatsappButton />
   </>
     )
   }

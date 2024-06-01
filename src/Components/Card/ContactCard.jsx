@@ -77,6 +77,7 @@ const ContactCard = () => {
             </h2>
             <p className="mt-2 text-gray-500 dark:text-gray-400 font-medium">
             Orhaan Information Technology.
+            315, Al Masood Tower
             </p>
             <p className="mt-2 text-gray-500 dark:text-gray-400 font-medium">
        
