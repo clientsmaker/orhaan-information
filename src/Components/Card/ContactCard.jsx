@@ -42,7 +42,7 @@ const ContactCard = () => {
              
             </p>
             <p className="mt-2 text-blue-500 dark:text-blue-400 font-medium">
-            info@orhaan.com
+            info@orhaanIT.com
             </p>
             {/* <p className="mt-2 text-blue-500 dark:text-blue-400 font-medium">
             navneet@goldenwateremirates.com

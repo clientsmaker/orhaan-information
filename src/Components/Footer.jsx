@@ -8,7 +8,7 @@ const contactDetails = [
     items: [
       "Phone:   +971 4 329 6860",
      
-      "Email: info@orhaan.com",
+      "Email: info@orhaanIT.com",
       "Address:315, Al Masood Tower Dubai, UAE  "
    
       
